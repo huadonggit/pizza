@@ -1,0 +1,1862 @@
+{
+  "seller": {
+    "name": "Big披萨店",
+    "description": "店铺自送",
+    "deliveryTime": 40,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 5,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "本Big披萨店专卖各种口味的披萨，欢迎大家来品尝。",
+    "supports": [
+      {
+        "type": 0,
+        "description": "在线支付满30减5"
+      },
+      {
+        "type": 1,
+        "description": "VC无限橙果汁全场8折"
+      },
+      {
+        "type": 2,
+        "description": "单人精彩套餐"
+      },
+      {
+        "type": 3,
+        "description": "本披萨店支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "已加入“外卖保”计划,食品安全保障"
+      }
+    ],
+    "avatar": "http://localhost:8080/dist/static/images/logo.png",
+    "pics": [
+      "http://localhost:8080/dist/static/images/seller1.jpeg",
+      "http://localhost:8080/dist/static/images/seller2.jpeg",
+      "http://localhost:8080/dist/static/images/seller3.jpeg",
+      "http://localhost:8080/dist/static/images/seller4.jpeg"
+    ],
+    "infos": [
+      "本披萨店支持发票,请下单写好发票抬头",
+      "主营：各种披萨，粥品，鸡尾酒",
+      "地址：山西省太原市尖草坪区太原工业学院东街2号",
+      "营业时间：10:00-20:30"
+    ]
+  },
+  "goods": [
+    {
+      "name": "热销榜",
+      "type": -1,
+      "foods": [
+        {
+          "name": "榴莲比萨（mini系列）",
+          "price": 12,
+          "oldPrice": "",
+          "ingredient": "榴莲酱、马苏里拉芝士",
+          "description": "饼底铺满了一层厚厚的榴莲酱，散发浓浓的芝士味与榴莲香气，令人缠绵悱恻、欲罢不能！",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "爱吃披萨的小男孩",
+              "rateTime": 1532659680000,
+              "rateType": 0,
+              "text": "味道不错",
+              "avatar": "http://localhost:8080/dist/static/images/boy.jpg"
+            },
+            {
+              "username": "不爱吃披萨的小女孩",
+              "rateTime": 1532659580000,
+              "rateType": 1,
+              "text": "受不了榴莲的推荐大家换一种口味",
+              "avatar": "http://localhost:8080/dist/static/images/girl.jpg"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza01.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza01.jpg"
+        },
+        {
+          "name": "美丽意大利比萨（薄饼系列）",
+          "price": 15,
+          "oldPrice": "",
+          "ingredient": "意大利香肠、比萨酱、马苏里拉芝士",
+          "description": "风味浓郁的传统意大利香肠辅以特制比萨酱，独具意式风味，美味难挡！",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659570000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659588000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659583000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza05.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza05.jpg"
+        },
+        {
+          "name": "草莓巧克力比萨（薄饼系列）",
+          "price": 15,
+          "oldPrice": "",
+          "ingredient": "草莓、巧克力酱、马苏里拉芝士",
+          "description": "草莓与巧克力酱的完美结合，入口香脆诱人，甜蜜魅惑，一品倾心！",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532658580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532655580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532652580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza06.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza06.jpg"
+        },
+        {
+          "name": "芝心BBQ鸡肉比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "马苏里拉芝士、烤鸡肉、青椒、红椒、洋葱、菠萝",
+          "description": "烤鸡肉、青红椒和洋葱的组合在香甜BBQ酱的配衬下更浓郁诱人，美味无法抵抗！",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532659530000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza12.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza12.jpg"
+        },
+        {
+          "name": "BIG至尊比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "马苏里拉芝士、意式香肠、火腿、牛肉粒、培根、比萨酱",
+          "description": "美味的火腿、牛肉粒、培根等丰富馅料融入浓浓芝士，为肉食爱好者送上了一份无比美味的饕餮享受。",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532654580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza14.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza14.jpg"
+        },
+        {
+          "name": "芝心水果乐园比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "马苏里拉芝士、苹果、黄桃、菠萝",
+          "description": "多种新鲜水果搭配甜蜜酱料，融入浓浓芝士，甜而不腻，幸福满溢！",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532659550000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza15.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza15.jpg"
+        },
+        {
+          "name": "烟熏鸡肉沙拉",
+          "price": 8,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659380200,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532658580300,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532654580200,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/水果.jpg",
+          "image": "http://localhost:8080/dist/static/images/水果.jpg"
+        },
+        {
+          "name": "葡式蛋挞",
+          "price": 1.5,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659560020,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659560500,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/蛋挞.jpg",
+          "image": "http://localhost:8080/dist/static/images/蛋挞.jpg"
+        },
+        {
+          "name": "橙味伏特加预调鸡尾酒",
+          "price": 6,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "橙子和伏特加泡在一起 聊什么都津津有味...... 俄罗斯伏特加的无色、无味，凸显了橙汁的香甜，看似平静，却激荡着无限活力，不经意间便成了众人的贪恋……. ",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659530200,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659560700,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/rio05.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio05.jpg"
+        },
+        {
+          "name": "奶油蘑菇汤",
+          "price": 4,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659566600,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659538900,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659255000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/蘑菇.jpg",
+          "image": "http://localhost:8080/dist/static/images/蘑菇.jpg"
+        },
+        {
+          "name": "鲜蔬菌菇粥",
+          "price": 5,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "咸粥",
+          "sellCount": 56,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659333000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659444000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659555000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/jungu_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/jungu_content.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "特色mini披萨",
+      "type": 2,
+      "foods": [
+        {
+          "name": "榴莲比萨（mini系列）",
+          "price": 12,
+          "oldPrice": "",
+          "ingredient": "榴莲酱、马苏里拉芝士",
+          "description": "饼底铺满了一层厚厚的榴莲酱，散发浓浓的芝士味与榴莲香气，令人缠绵悱恻、欲罢不能！",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "爱吃披萨的小男孩",
+              "rateTime": 1532659523400,
+              "rateType": 0,
+              "text": "味道不错",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "不爱吃披萨的小女孩",
+              "rateTime": 1532659543200,
+              "rateType": 1,
+              "text": "受不了榴莲的推荐大家换一种口味",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza01.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza01.jpg"
+        },
+        {
+          "name": "草莓巧克力比萨（mini系列）",
+          "price": 12,
+          "oldPrice": "",
+          "ingredient": "草莓、巧克力酱、马苏里拉芝士",
+          "description": "草莓与巧克力酱的完美结合，入口香脆诱人，甜蜜魅惑，一品倾心！",
+          "sellCount": 29,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659454000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659577700,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza02.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza02.jpg"
+        },
+        {
+          "name": "黄飞红比萨（mini系列）",
+          "price": 12,
+          "oldPrice": "",
+          "ingredient": "东坡腊香肠、比萨酱、马苏里拉芝士",
+          "description": "四川东坡腊肠又麻又辣与马苏里拉碰撞，中西合璧，出神入化的味道",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659599900,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659545900,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza03.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza03.jpg"
+        },
+        {
+          "name": "BBQ魔鬼鸡肉比萨（mini系列）",
+          "price": 12,
+          "oldPrice": "",
+          "ingredient": "BBQ魔鬼鸡肉丁、马苏里拉芝士",
+          "description": "BBQ魔鬼烤鸡肉搭配浓香马苏里拉芝士，一口辣不过瘾，令人回味无穷",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532639580300,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532629580500,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza04.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza04.jpg"
+        }
+      ]
+    },
+    {
+      "name": "特色薄饼披萨",
+      "type": 2,
+      "foods": [
+        {
+          "name": "美丽意大利比萨（薄饼系列）",
+          "price": 15,
+          "oldPrice": "",
+          "ingredient": "意大利香肠、比萨酱、马苏里拉芝士",
+          "description": "风味浓郁的传统意大利香肠辅以特制比萨酱，独具意式风味，美味难挡！",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza05.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza05.jpg"
+        },
+        {
+          "name": "草莓巧克力比萨（薄饼系列）",
+          "price": 15,
+          "oldPrice": "",
+          "ingredient": "草莓、巧克力酱、马苏里拉芝士",
+          "description": "草莓与巧克力酱的完美结合，入口香脆诱人，甜蜜魅惑，一品倾心！",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza06.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza06.jpg"
+        },
+        {
+          "name": "芝士总汇比萨（薄饼系列）",
+          "price": 15,
+          "oldPrice": "",
+          "ingredient": "芝士条酱、马苏里拉芝士",
+          "description": "精选新西兰进口马苏里拉，搭配比格特制薄饼底，入口香脆，十足美味值得细细品味！",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza07.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza07.jpg"
+        },
+        {
+          "name": "榴莲比萨（薄饼系列）",
+          "price": 15,
+          "oldPrice": "",
+          "ingredient": "榴莲酱、马苏里拉芝士",
+          "description": "超薄饼底铺满了一层厚厚的榴莲酱，散发浓浓的芝士味与榴莲香气，令人缠绵悱恻、欲罢不能！",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza08.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza08.jpg"
+        }
+      ]
+    },
+    {
+      "name": "卷边披萨",
+      "type": 1,
+      "foods": [
+        {
+          "name": "至尊卷边榴莲比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "榴莲酱、马苏里拉芝士",
+          "description": "饼底铺满了一层厚厚的榴莲酱，散发浓浓的芝士味与榴莲香气，令人缠绵悱恻、欲罢不能！",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza09.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza09.jpg"
+        },
+        {
+          "name": "黄飞红卷边比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "东坡腊香肠、比萨酱、马苏里拉芝士",
+          "description": "四川东坡腊肠又麻又辣与马苏里拉碰撞，中西合璧，出神入化的味道",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza10.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza10.jpg"
+        },
+        {
+          "name": "美丽意大利卷边比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "意大利香肠、比萨酱、马苏里拉芝士",
+          "description": "风味浓郁的传统意大利香肠辅以特制比萨酱，独具意式风味，美味难挡！",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza11.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza11.jpg"
+        },
+        {
+          "name": "芝心BBQ鸡肉比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "马苏里拉芝士、烤鸡肉、青椒、红椒、洋葱、菠萝",
+          "description": "烤鸡肉、青红椒和洋葱的组合在香甜BBQ酱的配衬下更浓郁诱人，美味无法抵抗！",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza12.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza12.jpg"
+        },
+        {
+          "name": "田园时光比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "马苏里拉芝士、口蘑、洋葱、青椒、红椒、玉米粒、黑水榄、比萨酱",
+          "description": "香浓芝士佐以青红椒等色彩鲜明的时令鲜蔬，健康美味，一尝难忘！",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza13.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza13.jpg"
+        },
+        {
+          "name": "BIG至尊比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "马苏里拉芝士、意式香肠、火腿、牛肉粒、培根、比萨酱",
+          "description": "美味的火腿、牛肉粒、培根等丰富馅料融入浓浓芝士，为肉食爱好者送上了一份无比美味的饕餮享受。",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza14.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza14.jpg"
+        },
+        {
+          "name": "芝心水果乐园比萨",
+          "price": 20,
+          "oldPrice": "",
+          "ingredient": "马苏里拉芝士、苹果、黄桃、菠萝",
+          "description": "多种新鲜水果搭配甜蜜酱料，融入浓浓芝士，甜而不腻，幸福满溢！",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pizza15.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza15.jpg"
+        }
+      ]
+    },
+    {
+      "name": "沙拉",
+      "type": -1,
+      "foods": [
+        {
+          "name": "新鲜果蔬沙拉",
+          "price": 6,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "http://localhost:8080/dist/static/images/水果.jpg",
+          "image": "http://localhost:8080/dist/static/images/水果.jpg"
+        },
+        {
+          "name": "烟熏鸡肉沙拉",
+          "price": 8,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/熏鸡1.jpg",
+          "image": "http://localhost:8080/dist/static/images/熏鸡1.jpg"
+        },
+        {
+          "name": "鸡蛋酸黄瓜沙拉",
+          "price": 8,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/鸡蛋沙拉.jpg",
+          "image": "http://localhost:8080/dist/static/images/鸡蛋沙拉.jpg"
+        }
+      ]
+    },
+    {
+      "name": "小吃",
+      "type": -1,
+      "foods": [
+        {
+          "name": "BBQ烤全翅",
+          "price": 8,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "http://localhost:8080/dist/static/images/鸡翅.jpg",
+          "image": "http://localhost:8080/dist/static/images/鸡翅.jpg"
+        },
+        {
+          "name": "牛肉丸(6个)",
+          "price": 8,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/丸.jpg",
+          "image": "http://localhost:8080/dist/static/images/丸.jpg"
+        },
+        {
+          "name": "德式烤肠（4根）",
+          "price": 8,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/香肠.jpg",
+          "image": "http://localhost:8080/dist/static/images/香肠.jpg"
+        },
+        {
+          "name": "芝士焗土豆泥",
+          "price": 4,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/土豆.jpg",
+          "image": "http://localhost:8080/dist/static/images/土豆.jpg"
+        },
+        {
+          "name": "曲奇薯(6个）",
+          "price": 8,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/曲奇薯.jpg",
+          "image": "http://localhost:8080/dist/static/images/曲奇薯.jpg"
+        },
+        {
+          "name": "葡式蛋挞",
+          "price": 1.5,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/蛋挞.jpg",
+          "image": "http://localhost:8080/dist/static/images/蛋挞.jpg"
+        },
+        {
+          "name": "小熊薯(4个）",
+          "price": 8,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/小熊派.jpg",
+          "image": "http://localhost:8080/dist/static/images/小熊派.jpg"
+        }
+      ]
+    },
+    {
+      "name": "鸡尾酒",
+      "type": -1,
+      "foods": [
+        {
+          "name": "蓝玫瑰味威士忌预调鸡尾酒",
+          "price": 6,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "威士忌搭上蓝玫瑰威士忌绝不简单！ 威士忌浓烈中散发优雅，性感中演绎妩媚，矛盾的味道在口中缓缓糅合，幽香的蓝玫瑰在心间轻轻绽放，风情万种。 ",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "http://localhost:8080/dist/static/images/rio.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio.jpg"
+        },
+        {
+          "name": "水蜜桃味白兰地预调鸡尾酒",
+          "price": 6,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "水蜜桃的甜言蜜语总算对白兰地起作用了！ 在水蜜桃甜蜜分子的层层包围下，白兰地终于被浪漫俘获；甜美的组合带来独特的细腻滋味，桃子的蜜香和白兰地的醇美常留口中，让人们在美味中享受健康，在高贵中体验醇美，在不经意间来个 French kiss. ",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/rio02.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio02.jpg"
+        },
+        {
+          "name": "青柠味朗姆预调鸡尾酒",
+          "price": 6,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "朗姆酒迷倒众生青柠也不例外！ 朗姆的悠扬淡雅，魅力难挡，青柠甘愿在满口的醉意中，化为一丝幽酸。或淡或浓的酒感，仿若除去了一身的疲惫，整个人都活了过来。 ",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/rio03.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio03.jpg"
+        },
+        {
+          "name": "紫葡萄味白兰地预调鸡尾酒",
+          "price": 6,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "紫葡萄遇到白兰地 瞬间就失去了抵抗力！ 醇美无暇的白兰地邂逅晶莹剔透的紫葡萄，犹如豆蔻年华少女的梦,充满了浪漫和神秘。",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/rio04.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio04.jpg"
+        },
+        {
+          "name": "橙味伏特加预调鸡尾酒",
+          "price": 6,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "橙子和伏特加泡在一起 聊什么都津津有味...... 俄罗斯伏特加的无色、无味，凸显了橙汁的香甜，看似平静，却激荡着无限活力，不经意间便成了众人的贪恋……. ",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/rio05.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio05.jpg"
+        },
+        {
+          "name": "混合水果味（宾治）伏特加预调鸡尾酒",
+          "price": 6,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "什么水果都吃得开伏特加真有一手！ 伏特加绝不是闷酒，它的身边从不缺水果，红石榴、凤梨、樱桃、芒果、西柚……多种超乎想象的果汁口感混合，彼此辉映，络绎不绝，融合成意想不到的绝妙滋味。",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/rio06.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio06.jpg"
+        }
+      ]
+    },
+    {
+      "name": "果拼果汁",
+      "type": -1,
+      "foods": [
+        {
+          "name": "蜜瓜圣女萝莉杯",
+          "price": 6,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "http://localhost:8080/dist/static/images/migua_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/migua_content.jpeg"
+        },
+        {
+          "name": "加多宝",
+          "price": 6,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/jiaduobao_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/jiaduobao_content.jpeg"
+        },
+        {
+          "name": "VC无限橙果汁",
+          "price": 5,
+          "oldPrice": 10,
+          "ingredient": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/cengzhi_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/cengzhi_content.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "特色汤面",
+      "type": -1,
+      "foods": [
+        {
+          "name": "芝士焗肉酱面",
+          "price": 6,
+          "oldPrice": "",
+          "ingredient": "意大利面、马苏里拉芝士、意大利肉酱",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "很喜欢的意大利面",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/焗面1.jpg",
+          "image": "http://localhost:8080/dist/static/images/焗面1.jpg"
+        },
+        {
+          "name": "奶汁培根面",
+          "price": 6,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/培根面.jpg",
+          "image": "http://localhost:8080/dist/static/images/培根面.jpg"
+        },
+        {
+          "name": "奶油蘑菇汤",
+          "price": 4,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/蘑菇.jpg",
+          "image": "http://localhost:8080/dist/static/images/蘑菇.jpg"
+        }
+      ]
+    },
+    {
+      "name": "特色粥品",
+      "type": -1,
+      "foods": [
+        {
+          "name": "皮蛋瘦肉粥",
+          "price": 5,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "咸粥",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "很喜欢的粥",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/pidan_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/pidan_content.jpeg"
+        },
+        {
+          "name": "南瓜粥",
+          "price": 4,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/nanguazhou_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/nanguazhou_content.jpeg"
+        },
+        {
+          "name": "红豆薏米美肤粥",
+          "price": 4,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "甜粥",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/hongdou_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/hongdou_content.jpeg"
+        },
+        {
+          "name": "鲜蔬菌菇粥",
+          "price": 5,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "咸粥",
+          "sellCount": 56,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/jungu_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/jungu_content.jpeg"
+        },
+        {
+          "name": "田园蔬菜粥",
+          "price": 4,
+          "oldPrice": "",
+          "ingredient": "",
+          "description": "咸粥",
+          "sellCount": 33,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1532659580000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
+            }
+          ],
+          "icon": "http://localhost:8080/dist/static/images/shucaizhou_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/shucaizhou_content.jpeg"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1532659580000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,披萨很好吃,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+      "avatar": "http://localhost:8080/dist/static/images/boy.jpg",
+      "recommend": [
+        "草莓巧克力比萨",
+        "黄飞红卷边比萨",
+        "芝心BBQ鸡肉比萨",
+        "BIG至尊比萨",
+        "芝心水果乐园比萨"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "avatar": "http://localhost:8080/dist/static/images/girl.jpg",
+      "recommend": [
+        "奶汁培根面"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1532659580000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1532659580000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1532659580000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1532659580000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1532659580000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的披萨店",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "量给的还可以",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢吃这家",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": [
+        "芝士焗肉酱面"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "披萨挺好吃的",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1532659580000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "吃了还想再吃",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1532659580000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好吃",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1532659580000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢的粥",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1532659580000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
+      "recommend": []
+    }
+  ]
+}
