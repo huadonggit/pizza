@@ -34,12 +34,12 @@
         "description": "已加入“外卖保”计划,食品安全保障"
       }
     ],
-    "avatar": "http://localhost:8080/static/images/logo.png",
+    "avatar": "http://localhost:8080/dist/static/images/logo.png",
     "pics": [
-      "http://localhost:8080/static/images/seller1.jpeg",
-      "http://localhost:8080/static/images/seller2.jpeg",
-      "http://localhost:8080/static/images/seller3.jpeg",
-      "http://localhost:8080/static/images/seller4.jpeg"
+      "http://localhost:8080/dist/static/images/seller1.jpeg",
+      "http://localhost:8080/dist/static/images/seller2.jpeg",
+      "http://localhost:8080/dist/static/images/seller3.jpeg",
+      "http://localhost:8080/dist/static/images/seller4.jpeg"
     ],
     "infos": [
       "本披萨店支持发票,请下单写好发票抬头",
@@ -68,18 +68,18 @@
               "rateTime": 1532659680000,
               "rateType": 0,
               "text": "味道不错",
-              "avatar": "http://localhost:8080/static/images/boy.jpg"
+              "avatar": "http://localhost:8080/dist/static/images/boy.jpg"
             },
             {
               "username": "不爱吃披萨的小女孩",
               "rateTime": 1532659580000,
               "rateType": 1,
               "text": "受不了榴莲的推荐大家换一种口味",
-              "avatar": "http://localhost:8080/static/images/girl.jpg"
+              "avatar": "http://localhost:8080/dist/static/images/girl.jpg"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza01.jpg",
-          "image": "http://localhost:8080/static/images/pizza01.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza01.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza01.jpg"
         },
         {
           "name": "美丽意大利比萨（薄饼系列）",
@@ -96,25 +96,25 @@
               "rateTime": 1532659570000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659588000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659583000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza05.jpg",
-          "image": "http://localhost:8080/static/images/pizza05.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza05.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza05.jpg"
         },
         {
           "name": "草莓巧克力比萨（薄饼系列）",
@@ -131,25 +131,25 @@
               "rateTime": 1532658580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532655580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532652580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza06.jpg",
-          "image": "http://localhost:8080/static/images/pizza06.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza06.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza06.jpg"
         },
         {
           "name": "芝心BBQ鸡肉比萨",
@@ -166,11 +166,11 @@
               "rateTime": 1532659530000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza12.jpg",
-          "image": "http://localhost:8080/static/images/pizza12.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza12.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza12.jpg"
         },
         {
           "name": "BIG至尊比萨",
@@ -187,11 +187,11 @@
               "rateTime": 1532654580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza14.jpg",
-          "image": "http://localhost:8080/static/images/pizza14.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza14.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza14.jpg"
         },
         {
           "name": "芝心水果乐园比萨",
@@ -208,11 +208,11 @@
               "rateTime": 1532659550000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza15.jpg",
-          "image": "http://localhost:8080/static/images/pizza15.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza15.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza15.jpg"
         },
         {
           "name": "烟熏鸡肉沙拉",
@@ -229,25 +229,25 @@
               "rateTime": 1532659380200,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532658580300,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532654580200,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/水果.jpg",
-          "image": "http://localhost:8080/static/images/水果.jpg"
+          "icon": "http://localhost:8080/dist/static/images/水果.jpg",
+          "image": "http://localhost:8080/dist/static/images/水果.jpg"
         },
         {
           "name": "葡式蛋挞",
@@ -264,18 +264,18 @@
               "rateTime": 1532659560020,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659560500,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/蛋挞.jpg",
-          "image": "http://localhost:8080/static/images/蛋挞.jpg"
+          "icon": "http://localhost:8080/dist/static/images/蛋挞.jpg",
+          "image": "http://localhost:8080/dist/static/images/蛋挞.jpg"
         },
         {
           "name": "橙味伏特加预调鸡尾酒",
@@ -292,18 +292,18 @@
               "rateTime": 1532659530200,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659560700,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/rio05.jpg",
-          "image": "http://localhost:8080/static/images/rio05.jpg"
+          "icon": "http://localhost:8080/dist/static/images/rio05.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio05.jpg"
         },
         {
           "name": "奶油蘑菇汤",
@@ -320,25 +320,25 @@
               "rateTime": 1532659566600,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659538900,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659255000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/蘑菇.jpg",
-          "image": "http://localhost:8080/static/images/蘑菇.jpg"
+          "icon": "http://localhost:8080/dist/static/images/蘑菇.jpg",
+          "image": "http://localhost:8080/dist/static/images/蘑菇.jpg"
         },
         {
           "name": "鲜蔬菌菇粥",
@@ -355,7 +355,7 @@
               "rateTime": 1532659333000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
@@ -368,11 +368,11 @@
               "rateTime": 1532659555000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/jungu_icon.jpeg",
-          "image": "http://localhost:8080/static/images/jungu_content.jpeg"
+          "icon": "http://localhost:8080/dist/static/images/jungu_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/jungu_content.jpeg"
         }
       ]
     },
@@ -395,18 +395,18 @@
               "rateTime": 1532659523400,
               "rateType": 0,
               "text": "味道不错",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "不爱吃披萨的小女孩",
               "rateTime": 1532659543200,
               "rateType": 1,
               "text": "受不了榴莲的推荐大家换一种口味",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza01.jpg",
-          "image": "http://localhost:8080/static/images/pizza01.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza01.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza01.jpg"
         },
         {
           "name": "草莓巧克力比萨（mini系列）",
@@ -423,18 +423,18 @@
               "rateTime": 1532659454000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659577700,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza02.jpg",
-          "image": "http://localhost:8080/static/images/pizza02.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza02.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza02.jpg"
         },
         {
           "name": "黄飞红比萨（mini系列）",
@@ -451,18 +451,18 @@
               "rateTime": 1532659599900,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659545900,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza03.jpg",
-          "image": "http://localhost:8080/static/images/pizza03.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza03.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza03.jpg"
         },
         {
           "name": "BBQ魔鬼鸡肉比萨（mini系列）",
@@ -479,18 +479,18 @@
               "rateTime": 1532639580300,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532629580500,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza04.jpg",
-          "image": "http://localhost:8080/static/images/pizza04.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza04.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza04.jpg"
         }
       ]
     },
@@ -513,25 +513,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza05.jpg",
-          "image": "http://localhost:8080/static/images/pizza05.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza05.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza05.jpg"
         },
         {
           "name": "草莓巧克力比萨（薄饼系列）",
@@ -548,25 +548,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza06.jpg",
-          "image": "http://localhost:8080/static/images/pizza06.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza06.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza06.jpg"
         },
         {
           "name": "芝士总汇比萨（薄饼系列）",
@@ -583,25 +583,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza07.jpg",
-          "image": "http://localhost:8080/static/images/pizza07.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza07.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza07.jpg"
         },
         {
           "name": "榴莲比萨（薄饼系列）",
@@ -618,25 +618,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza08.jpg",
-          "image": "http://localhost:8080/static/images/pizza08.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza08.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza08.jpg"
         }
       ]
     },
@@ -659,11 +659,11 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza09.jpg",
-          "image": "http://localhost:8080/static/images/pizza09.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza09.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza09.jpg"
         },
         {
           "name": "黄飞红卷边比萨",
@@ -680,11 +680,11 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza10.jpg",
-          "image": "http://localhost:8080/static/images/pizza10.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza10.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza10.jpg"
         },
         {
           "name": "美丽意大利卷边比萨",
@@ -701,11 +701,11 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza11.jpg",
-          "image": "http://localhost:8080/static/images/pizza11.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza11.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza11.jpg"
         },
         {
           "name": "芝心BBQ鸡肉比萨",
@@ -722,11 +722,11 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza12.jpg",
-          "image": "http://localhost:8080/static/images/pizza12.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza12.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza12.jpg"
         },
         {
           "name": "田园时光比萨",
@@ -743,11 +743,11 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza13.jpg",
-          "image": "http://localhost:8080/static/images/pizza13.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza13.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza13.jpg"
         },
         {
           "name": "BIG至尊比萨",
@@ -764,11 +764,11 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza14.jpg",
-          "image": "http://localhost:8080/static/images/pizza14.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza14.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza14.jpg"
         },
         {
           "name": "芝心水果乐园比萨",
@@ -785,11 +785,11 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pizza15.jpg",
-          "image": "http://localhost:8080/static/images/pizza15.jpg"
+          "icon": "http://localhost:8080/dist/static/images/pizza15.jpg",
+          "image": "http://localhost:8080/dist/static/images/pizza15.jpg"
         }
       ]
     },
@@ -807,8 +807,8 @@
           "rating": "",
           "info": "",
           "ratings": [],
-          "icon": "http://localhost:8080/static/images/水果.jpg",
-          "image": "http://localhost:8080/static/images/水果.jpg"
+          "icon": "http://localhost:8080/dist/static/images/水果.jpg",
+          "image": "http://localhost:8080/dist/static/images/水果.jpg"
         },
         {
           "name": "烟熏鸡肉沙拉",
@@ -825,25 +825,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/熏鸡1.jpg",
-          "image": "http://localhost:8080/static/images/熏鸡1.jpg"
+          "icon": "http://localhost:8080/dist/static/images/熏鸡1.jpg",
+          "image": "http://localhost:8080/dist/static/images/熏鸡1.jpg"
         },
         {
           "name": "鸡蛋酸黄瓜沙拉",
@@ -860,18 +860,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/鸡蛋沙拉.jpg",
-          "image": "http://localhost:8080/static/images/鸡蛋沙拉.jpg"
+          "icon": "http://localhost:8080/dist/static/images/鸡蛋沙拉.jpg",
+          "image": "http://localhost:8080/dist/static/images/鸡蛋沙拉.jpg"
         }
       ]
     },
@@ -889,8 +889,8 @@
           "rating": "",
           "info": "",
           "ratings": [],
-          "icon": "http://localhost:8080/static/images/鸡翅.jpg",
-          "image": "http://localhost:8080/static/images/鸡翅.jpg"
+          "icon": "http://localhost:8080/dist/static/images/鸡翅.jpg",
+          "image": "http://localhost:8080/dist/static/images/鸡翅.jpg"
         },
         {
           "name": "牛肉丸(6个)",
@@ -907,25 +907,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/丸.jpg",
-          "image": "http://localhost:8080/static/images/丸.jpg"
+          "icon": "http://localhost:8080/dist/static/images/丸.jpg",
+          "image": "http://localhost:8080/dist/static/images/丸.jpg"
         },
         {
           "name": "德式烤肠（4根）",
@@ -942,18 +942,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/香肠.jpg",
-          "image": "http://localhost:8080/static/images/香肠.jpg"
+          "icon": "http://localhost:8080/dist/static/images/香肠.jpg",
+          "image": "http://localhost:8080/dist/static/images/香肠.jpg"
         },
         {
           "name": "芝士焗土豆泥",
@@ -970,18 +970,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/土豆.jpg",
-          "image": "http://localhost:8080/static/images/土豆.jpg"
+          "icon": "http://localhost:8080/dist/static/images/土豆.jpg",
+          "image": "http://localhost:8080/dist/static/images/土豆.jpg"
         },
         {
           "name": "曲奇薯(6个）",
@@ -998,18 +998,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/曲奇薯.jpg",
-          "image": "http://localhost:8080/static/images/曲奇薯.jpg"
+          "icon": "http://localhost:8080/dist/static/images/曲奇薯.jpg",
+          "image": "http://localhost:8080/dist/static/images/曲奇薯.jpg"
         },
         {
           "name": "葡式蛋挞",
@@ -1026,18 +1026,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/蛋挞.jpg",
-          "image": "http://localhost:8080/static/images/蛋挞.jpg"
+          "icon": "http://localhost:8080/dist/static/images/蛋挞.jpg",
+          "image": "http://localhost:8080/dist/static/images/蛋挞.jpg"
         },
         {
           "name": "小熊薯(4个）",
@@ -1054,18 +1054,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/小熊派.jpg",
-          "image": "http://localhost:8080/static/images/小熊派.jpg"
+          "icon": "http://localhost:8080/dist/static/images/小熊派.jpg",
+          "image": "http://localhost:8080/dist/static/images/小熊派.jpg"
         }
       ]
     },
@@ -1083,8 +1083,8 @@
           "rating": "",
           "info": "",
           "ratings": [],
-          "icon": "http://localhost:8080/static/images/rio.jpg",
-          "image": "http://localhost:8080/static/images/rio.jpg"
+          "icon": "http://localhost:8080/dist/static/images/rio.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio.jpg"
         },
         {
           "name": "水蜜桃味白兰地预调鸡尾酒",
@@ -1101,25 +1101,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/rio02.jpg",
-          "image": "http://localhost:8080/static/images/rio02.jpg"
+          "icon": "http://localhost:8080/dist/static/images/rio02.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio02.jpg"
         },
         {
           "name": "青柠味朗姆预调鸡尾酒",
@@ -1136,18 +1136,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/rio03.jpg",
-          "image": "http://localhost:8080/static/images/rio03.jpg"
+          "icon": "http://localhost:8080/dist/static/images/rio03.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio03.jpg"
         },
         {
           "name": "紫葡萄味白兰地预调鸡尾酒",
@@ -1164,18 +1164,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/rio04.jpg",
-          "image": "http://localhost:8080/static/images/rio04.jpg"
+          "icon": "http://localhost:8080/dist/static/images/rio04.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio04.jpg"
         },
         {
           "name": "橙味伏特加预调鸡尾酒",
@@ -1192,18 +1192,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/rio05.jpg",
-          "image": "http://localhost:8080/static/images/rio05.jpg"
+          "icon": "http://localhost:8080/dist/static/images/rio05.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio05.jpg"
         },
         {
           "name": "混合水果味（宾治）伏特加预调鸡尾酒",
@@ -1220,18 +1220,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/rio06.jpg",
-          "image": "http://localhost:8080/static/images/rio06.jpg"
+          "icon": "http://localhost:8080/dist/static/images/rio06.jpg",
+          "image": "http://localhost:8080/dist/static/images/rio06.jpg"
         }
       ]
     },
@@ -1249,8 +1249,8 @@
           "rating": "",
           "info": "",
           "ratings": [],
-          "icon": "http://localhost:8080/static/images/migua_icon.jpeg",
-          "image": "http://localhost:8080/static/images/migua_content.jpeg"
+          "icon": "http://localhost:8080/dist/static/images/migua_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/migua_content.jpeg"
         },
         {
           "name": "加多宝",
@@ -1267,25 +1267,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/jiaduobao_icon.jpeg",
-          "image": "http://localhost:8080/static/images/jiaduobao_content.jpeg"
+          "icon": "http://localhost:8080/dist/static/images/jiaduobao_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/jiaduobao_content.jpeg"
         },
         {
           "name": "VC无限橙果汁",
@@ -1302,18 +1302,18 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "还可以",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/cengzhi_icon.jpeg",
-          "image": "http://localhost:8080/static/images/cengzhi_content.jpeg"
+          "icon": "http://localhost:8080/dist/static/images/cengzhi_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/cengzhi_content.jpeg"
         }
       ]
     },
@@ -1335,25 +1335,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "很喜欢的意大利面",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 1,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/焗面1.jpg",
-          "image": "http://localhost:8080/static/images/焗面1.jpg"
+          "icon": "http://localhost:8080/dist/static/images/焗面1.jpg",
+          "image": "http://localhost:8080/dist/static/images/焗面1.jpg"
         },
         {
           "name": "奶汁培根面",
@@ -1370,25 +1370,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/培根面.jpg",
-          "image": "http://localhost:8080/static/images/培根面.jpg"
+          "icon": "http://localhost:8080/dist/static/images/培根面.jpg",
+          "image": "http://localhost:8080/dist/static/images/培根面.jpg"
         },
         {
           "name": "奶油蘑菇汤",
@@ -1405,25 +1405,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/蘑菇.jpg",
-          "image": "http://localhost:8080/static/images/蘑菇.jpg"
+          "icon": "http://localhost:8080/dist/static/images/蘑菇.jpg",
+          "image": "http://localhost:8080/dist/static/images/蘑菇.jpg"
         }
       ]
     },
@@ -1445,25 +1445,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "很喜欢的粥",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 1,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/pidan_icon.jpeg",
-          "image": "http://localhost:8080/static/images/pidan_content.jpeg"
+          "icon": "http://localhost:8080/dist/static/images/pidan_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/pidan_content.jpeg"
         },
         {
           "name": "南瓜粥",
@@ -1480,25 +1480,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/nanguazhou_icon.jpeg",
-          "image": "http://localhost:8080/static/images/nanguazhou_content.jpeg"
+          "icon": "http://localhost:8080/dist/static/images/nanguazhou_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/nanguazhou_content.jpeg"
         },
         {
           "name": "红豆薏米美肤粥",
@@ -1515,25 +1515,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/hongdou_icon.jpeg",
-          "image": "http://localhost:8080/static/images/hongdou_content.jpeg"
+          "icon": "http://localhost:8080/dist/static/images/hongdou_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/hongdou_content.jpeg"
         },
         {
           "name": "鲜蔬菌菇粥",
@@ -1550,7 +1550,7 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
@@ -1563,11 +1563,11 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/jungu_icon.jpeg",
-          "image": "http://localhost:8080/static/images/jungu_content.jpeg"
+          "icon": "http://localhost:8080/dist/static/images/jungu_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/jungu_content.jpeg"
         },
         {
           "name": "田园蔬菜粥",
@@ -1584,25 +1584,25 @@
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             },
             {
               "username": "3******b",
               "rateTime": 1532659580000,
               "rateType": 0,
               "text": "",
-              "avatar": "http://localhost:8080/static/images/default_header.png"
+              "avatar": "http://localhost:8080/dist/static/images/default_header.png"
             }
           ],
-          "icon": "http://localhost:8080/static/images/shucaizhou_icon.jpeg",
-          "image": "http://localhost:8080/static/images/shucaizhou_content.jpeg"
+          "icon": "http://localhost:8080/dist/static/images/shucaizhou_icon.jpeg",
+          "image": "http://localhost:8080/dist/static/images/shucaizhou_content.jpeg"
         }
       ]
     }
@@ -1615,7 +1615,7 @@
       "score": 5,
       "rateType": 0,
       "text": "不错,披萨很好吃,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
-      "avatar": "http://localhost:8080/static/images/boy.jpg",
+      "avatar": "http://localhost:8080/dist/static/images/boy.jpg",
       "recommend": [
         "草莓巧克力比萨",
         "黄飞红卷边比萨",
@@ -1632,7 +1632,7 @@
       "rateType": 0,
       "deliveryTime": "",
       "text": "服务态度不错",
-      "avatar": "http://localhost:8080/static/images/girl.jpg",
+      "avatar": "http://localhost:8080/dist/static/images/girl.jpg",
       "recommend": [
         "奶汁培根面"
       ]
@@ -1643,7 +1643,7 @@
       "score": 3,
       "rateType": 1,
       "text": "",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1653,7 +1653,7 @@
       "score": 5,
       "rateType": 0,
       "text": "良心店铺",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1663,7 +1663,7 @@
       "score": 4,
       "rateType": 0,
       "text": "",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1673,7 +1673,7 @@
       "score": 1,
       "rateType": 1,
       "text": "送货速度蜗牛一样",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1683,7 +1683,7 @@
       "score": 5,
       "rateType": 0,
       "text": "很喜欢的披萨店",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1693,7 +1693,7 @@
       "score": 4,
       "rateType": 0,
       "text": "量给的还可以",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1703,7 +1703,7 @@
       "score": 3,
       "rateType": 1,
       "text": "",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1713,7 +1713,7 @@
       "score": 4,
       "rateType": 0,
       "text": "孩子喜欢吃这家",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": [
         "芝士焗肉酱面"
       ]
@@ -1725,7 +1725,7 @@
       "score": 4,
       "rateType": 0,
       "text": "披萨挺好吃的",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1735,7 +1735,7 @@
       "score": 3,
       "rateType": 1,
       "text": "",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1745,7 +1745,7 @@
       "score": 5,
       "rateType": 0,
       "text": "送货速度很快",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1755,7 +1755,7 @@
       "score": 4,
       "rateType": 0,
       "text": "",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1765,7 +1765,7 @@
       "score": 4,
       "rateType": 0,
       "text": "下雨天给快递小哥点个赞",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1775,7 +1775,7 @@
       "score": 4,
       "rateType": 0,
       "text": "好",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1785,7 +1785,7 @@
       "score": 5,
       "rateType": 0,
       "text": "吃了还想再吃",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1795,7 +1795,7 @@
       "score": 3,
       "rateType": 1,
       "text": "发票开的不对",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1805,7 +1805,7 @@
       "score": 5,
       "rateType": 0,
       "text": "好吃",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1815,7 +1815,7 @@
       "score": 5,
       "rateType": 0,
       "text": "还不错吧",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1825,7 +1825,7 @@
       "score": 2,
       "rateType": 1,
       "text": "",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1835,7 +1835,7 @@
       "score": 4,
       "rateType": 0,
       "text": "很喜欢的粥",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1845,7 +1845,7 @@
       "score": 5,
       "rateType": 0,
       "text": "",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     },
     {
@@ -1855,7 +1855,7 @@
       "score": 4,
       "rateType": 0,
       "text": "",
-      "avatar": "http://localhost:8080/static/images/default_header.png",
+      "avatar": "http://localhost:8080/dist/static/images/default_header.png",
       "recommend": []
     }
   ]
